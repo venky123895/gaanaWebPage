@@ -1,0 +1,128 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(245,245,245);
+}
+.menuImage{
+    width: 30px;
+    height: 30px;
+}
+.logo{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
+.lang{
+    width: 30px;
+    height: 30px;
+}
+.darkMode{
+    width: 30px;
+    height: 30px;
+}
+.in{
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+}
+.but1{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid rgb(236,116,118);
+    color: rgb(236,116,118);
+}
+.but2{
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid rgb(236,116,118);
+    color: rgb(236,116,118);
+}
+.content{
+    display: flex;
+    gap: 50px;
+    margin-top: 150px;
+    padding: 50px;
+}
+.venky{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid rgb(104,31,77);
+}
+.heart{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.dots{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.play{
+    display: flex;
+    gap: 30px;
+  
+    align-items: center;
+    
+}
+.round1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.read{
+    color: red;
+}
+.playbut{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(231,44,48);
+    color: white;
+    font-size: 1.1rem;
+}
+.text{
+    color: rgb(116,116,116);
+}
+.langu{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+    position: relative;
+    margin-left: 50px   ;
+}
+
+.all{
+    width: 50px;
+    height: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(231,44,48);
+    color: white;
+}
+.xxx{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+select{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    position: absolute;
+    right: 200px;
+}
